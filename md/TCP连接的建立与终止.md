@@ -1,7 +1,7 @@
 ## TCP连接的建立与终止
 ### 1、tcpdump输出三次握手四次挥手 
-![tcpdump](https://raw.githubusercontent.com/lyjgulu/tcp-ip/main/image/tcpdump.png)
-![tcpdumpinfo](https://raw.githubusercontent.com/lyjgulu/tcp-ip/main/image/tcpdumpinfo.png)
+!  [tcpdump](/56.com/tcpdump.png⁩)
+tcp首部图片 图18-2
 
 - 开始的序号，一个冒号，隐含的结尾序号，圆括号的数据字节数。
 - 在第2行中，字段ack1415531522表示确认序号。它只有在首部中的ACK标志比特被设置1时才显示。
